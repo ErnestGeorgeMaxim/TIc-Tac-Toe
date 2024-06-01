@@ -16,7 +16,7 @@ To run the game, follow these steps:
 1. Clone the repository: https://github.com/ErnestGeorgeMaxim/Tic-Tac-Toe.git
 2. Navigate to the project directory: cd Tic-Tac-Toe
 3. Install dependencies:
-4. Run the game:
+4. Run the game:python main.py
 
 ## Usage
 
